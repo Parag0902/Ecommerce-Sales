@@ -126,14 +126,11 @@ Bar Chart or Line Chart – Trend by Hour
 -> Enable users to explore data at a granular level, such as individual orders, customers, or product types.
 -> Help explain summary trends and validate aggregated metrics with raw data.
 
-Snapshot of Dashboard (Power BI Service)
 
-https://github.com/user-attachments/assets/6f50b467-6940-48e7-a76b-730905f54ebf
-
-Data Source:
+**Data Source:**
 Data Tutorials
 @datatutorials1
 
-
+Snapshot of Dashboard (Power BI Service)
 
 ![Dashboard ScreenShot](https://github.com/user-attachments/assets/03ed10c0-26ea-402c-8b55-233fa4eca47e)
