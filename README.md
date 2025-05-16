@@ -60,9 +60,5 @@ Bar Chart or Line Chart – Trend by Hour
 -> Help explain summary trends and validate aggregated metrics with raw data.
 
 Snapshot of Dashboard (Power BI Service)
+
 https://github.com/user-attachments/assets/6f50b467-6940-48e7-a76b-730905f54ebf
-
-
-
-
-
