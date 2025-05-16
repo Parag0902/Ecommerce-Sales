@@ -1,5 +1,9 @@
 # Ecommerce-Sales
 
+Dashboard Power BI Link:  
+https://app.powerbi.com/groups/me/reports/54ded08d-c8f0-4432-ace1-e4fa1374c18b/c5e3c32c0ab131ea82ba?experience=power-bi
+
+
 BUSINESS REQUIREMENT:
 The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
